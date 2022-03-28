@@ -1,0 +1,37 @@
+.container-testimonials {
+    width: 1170px;
+    height: 368px;
+    margin: 10px 10px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+    box-shadow: 0 3px 13px 1px rgba(0, 0, 0, 9%);
+}
+
+.img-testimonial {
+    height: 100%;
+
+}
+
+.container-testimonials-text {
+    text-align: center;
+    padding: 40px;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+.name-testimonials {
+    font-size: 1.3rem;
+}
+
+.job-testimonials {
+    font-size: 1.3rem;
+    margin-top: 15px;
+    padding-bottom: 30px;
+}
+
+.text-testimonials {
+    font-size: 1.1rem;
+    text-align: justify;
+}
